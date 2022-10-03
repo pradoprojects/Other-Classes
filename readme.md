@@ -1,4 +1,4 @@
-# Data Structure Course
+# HCI/UX Classes
 
 <br/>
 <div align="center">                                                             
@@ -11,20 +11,10 @@
   
 Welcome to the Data Structures Course repo. Here, you will find implementations for Data Structure problems that I taught to my undergrad students. The students were beginners in Java language. We coded the data structures from scratch instead of using data structures provided by the Java Documentation. That was a pedagogical decision to focus students' attention on the internals of data structures (properties and behavior).
 
-The repo is organized as follows:
-  
-* _ds_array package_: Problems and solutions defined over array implementations of list, stack and queue data structures.
+Here you can check some videos recorded and posted on youtube (Subtitles reviewed. To English subtitles, turn on subtitles and activate automatic translation to English in the video's details (gear icon)
 
-* _ds_dynamic package_: Problems and solutions defined over dynamic implementations of list, stack and queue data structures.
-  
-* _sorting package_: Problems and solutions defined over sorting algorithms.
-
-<div>
-
-You can also check some videos recorded and posted on youtube
-
-  * _Introduction to Java_: https://www.youtube.com/watch?v=fQuLR5xgzjs (Subtitles reviewed. To English subtitles, turn on subtitles and activate automatic translation to English in the video's details (gear icon)
-  * _Algorithms Complexity_: https://youtu.be/pz5-Vhp0EoM 
+  * _Introduction to UX_: https://youtu.be/HnsGNJfS3vM 
+  * _An intro to Qualitative and Quantitative Studies - Surveys_:https://youtu.be/bfIMQbXD-m0 
   * _Recursion_: https://youtu.be/DchD2YYU0pk
   
   * _Algorithms Complexity - Part 1_: https://youtu.be/4BPlRBz1jn0
