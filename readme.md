@@ -9,7 +9,7 @@
 <section>
 <div align="justify">
   
-Here you can check some videos recorded and posted on youtube (Subtitles reviewed. *To English subtitles, turn on subtitles and activate automatic translation to English in the video's details (gear icon)*
+Here you can check some videos recorded and posted on youtube (Subtitles reviewed. **To English subtitles, turn on subtitles and activate automatic translation to English in the video's details (gear icon)**
 
   * _Introduction to UX_: https://youtu.be/HnsGNJfS3vM 
   * _An intro to Qualitative and Quantitative Studies - Surveys_: https://youtu.be/bfIMQbXD-m0 
