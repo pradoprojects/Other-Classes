@@ -13,6 +13,7 @@ Here you can check some videos recorded and posted on youtube (Subtitles reviewe
 
   * _Students' prototype review_: https://youtu.be/5MfxtCwkD0k
   * _Introduction to UX_: https://youtu.be/HnsGNJfS3vM 
+  * _How UX design relates to UX research and terminologies used_ :https://youtu.be/TrKXvShtXDs
   * _An intro to Qualitative and Quantitative Studies - Surveys_: https://youtu.be/bfIMQbXD-m0 
   * _How to make good questions in a qualitative study_: https://youtu.be/j-B_Zi4jpfo
   
